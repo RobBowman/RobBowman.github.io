@@ -1,3 +1,5 @@
+# Azure Service Endpoints
+
 ## Puzzle
 I had a vnet that looked like this:
 
