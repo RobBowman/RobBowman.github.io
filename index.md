@@ -1,5 +1,2 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+# BizTalkers Blog Site
+Mostly describing problems faced when migrating BizTalk solutions to Azure PaaS
