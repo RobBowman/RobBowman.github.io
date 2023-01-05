@@ -30,3 +30,15 @@ Personally, I don't find the name "Service Endpoints" conveys what they actually
 
 ## What's Next
 Now I need to plumb this rules back into my bicep templates - just wanted to get this written down first before I forget how it works!
+
+
+<script src="https://utteranc.es/client.js"
+    repo="RobBowman/RobBowman.github.io"
+    issue-term="pathname"
+    theme="github-light"
+    crossorigin="anonymous"
+    async>
+</script>
+
+
+
