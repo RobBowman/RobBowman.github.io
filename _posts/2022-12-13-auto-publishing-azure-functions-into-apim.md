@@ -89,3 +89,11 @@ These are defined in xml, as per the example below:
 </policies>
 ````
 
+<script src="https://utteranc.es/client.js"
+    repo="RobBowman/RobBowman.github.io"
+    issue-term="pathname"
+    theme="github-light"
+    crossorigin="anonymous"
+    async>
+</script>
+

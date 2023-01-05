@@ -31,3 +31,11 @@ This left me with the following azure functions package references - with the fu
     <PackageReference Include="Microsoft.Azure.Functions.Worker.Sdk" Version="1.7.0" />
     <PackageReference Include="Microsoft.Azure.Functions.Worker.Extensions.OpenApi" Version="1.4.0" />
 ````
+
+<script src="https://utteranc.es/client.js"
+    repo="RobBowman/RobBowman.github.io"
+    issue-term="pathname"
+    theme="github-light"
+    crossorigin="anonymous"
+    async>
+</script>
